@@ -2,7 +2,7 @@
 
 <h1 align="left" >Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Abhishek Pandey </h1>
 
-<h3><samp><strong>I'm currently learning Full-Stack Web Development. I’m looking to collaborate projects. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
+<h3><samp><strong>I'm a Full-Stack Web Developer. I like to design websites and solving problems that I face while creating it. </strong></samp></h3> 
 <h4><i>To know more visit here...<a target="_blank" href="https://abhishek-pandey-portfolio.vercel.app/" >Portfolio</a></i> 😊</h4>
 <hr>
 
@@ -32,7 +32,7 @@
  
  <p align="left">
   <a href="https://www.linkedin.com/in/abhishek-pandey-a167a5230/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>&emsp;
-  <a title="abhishekpandey10082002@gmail.com" href="mailto:abhishekpandey10082002@gmail.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
+  <a title="abhishek.pandey@5cnetwork.com" href="mailto:abhishek.pandey@5cnetwork.com" target="blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>&emsp;
   <a href="https://wa.me/918467933363" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>&emsp;
   <a href="https://abhishekpandeyportfolio.netlify.app/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/107247913/185736439-402f6025-1e63-4eb3-b770-aacd5e4b1386.png"  width="50px" alt="portfolio" /></a>&emsp;
   
@@ -60,7 +60,7 @@
  
 </p>
  -->
-<img src ="https://github.com/abhishekpandey108/abhishekpandey108/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+<img src ="https://github.com/abhishek-pandey-5c/abhishek-pandey-5c/blob/master/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 
 <br>
 <br>
@@ -126,28 +126,28 @@
 
 
 <p align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpandey108&theme=chartreuse-dark"  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-pandey-5c&theme=chartreuse-dark"  />
 </p>
 
 
 <p>
-<a href="https://github.com/abhishekpandey108"><span>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpandey108&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishekpandey108&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<a href="https://github.com/abhishek-pandey-5c"><span>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-pandey-5c&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/><br/><br/><br/><br/><br/><br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhishek-pandey-5c&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr clear="both"> 
  <br/><br/><br/>
 <p align="center">
-<a href="https://github.com/abhishekpandey108"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekpandey108&theme=dracula" />
+<a href="https://github.com/abhishek-pandey-5c"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-pandey-5c&theme=dracula" />
 </span></a> </p>
 
 
  <br/>
 <!-- GitHub Cup's   -->
- <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=abhishekpandey108&theme=vue" alt=""/> </p>
+ <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=abhishek-pandey-5c&theme=vue" alt=""/> </p>
  <br/>
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhishekpandey108&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
